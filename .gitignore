@@ -37,3 +37,6 @@ rsconnect/
 
 # macOS desktop services store
 .DS_Store
+
+# Secret files
+_secret*
