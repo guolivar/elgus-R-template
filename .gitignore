@@ -40,3 +40,5 @@ rsconnect/
 
 # Secret files
 _secret*
+secrets/*
+!secrets/README.md
